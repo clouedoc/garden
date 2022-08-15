@@ -1,0 +1,6 @@
+{
+	"yaml.schemas": {
+		"https://json.schemastore.org/github-workflow": "/.github/workflows/**/*.yml",
+		"https://json.schemastore.org/github-workflow.json": "file:///Users/clouedoc/Desktop/Jardin/quartz/.github/workflows/deploy.yaml"
+	}
+}

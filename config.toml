@@ -1,4 +1,4 @@
-baseURL = "https://garden.cdn.camille.company/"
+baseURL = "https://garden.the.camille.company/"
 languageCode = "en-us"
 googleAnalytics = ""
 relativeURLs = false
