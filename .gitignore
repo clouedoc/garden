@@ -1,8 +1,16 @@
+# Editors
 .DS_Store
-public
-resources
 .idea
-content/.obsidian
+.vscode
+
+# Quartz
+resources
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 linkmap
+
+# My ignores
+.trash
+.obsidian
+.obsidian
+content/private
